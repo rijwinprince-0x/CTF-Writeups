@@ -13,7 +13,7 @@ I'm a first-year cybersecurity student building practical, offensive-security-fo
 | CTF | Focus Area |
 | :--- | :--- |
 | **[boro CTF](https://github.com/rijwinprince-0x/CTF-Writeups/blob/main/boroCTF%20writeup.pdf)** | Web Exploitation — OSINT, Path Traversal, Client-Side Auth, Info Disclosure |
-| **[TraceBash CTF](README.md)** | Web Exploitation — Logic Flaws, API Manipulation, Command Injection |
+| **[TraceBash CTF](https://github.com/rijwinprince-0x/CTF-Writeups/blob/main/TraceBash%20CTF%20writeup.pdf)** | Web Exploitation — Logic Flaws, API Manipulation, Command Injection |
 
 *(More competitions added as solved)*
 
