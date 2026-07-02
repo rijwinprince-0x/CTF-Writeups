@@ -1,4 +1,4 @@
-# CTF Writeups
+# CTF Writeups 📝
 
 A collection of writeups from CTF competitions I've participated in, focused on **Web Exploitation** and offensive security challenges.
 
@@ -10,16 +10,20 @@ I'm a first-year cybersecurity student building practical, offensive-security-fo
 
 ## Writeups
 
-> **[boro CTF](https://github.com/rijwinprince-0x/CTF-Writeups/blob/main/boroCTF%20writeup.pdf)**
-> Web Exploitation challenges — OSINT, Path Traversal, Client-Side Auth, Info Disclosure
+| CTF | Focus Area |
+| :--- | :--- |
+| **[boro CTF](https://github.com/rijwinprince-0x/CTF-Writeups/blob/main/boroCTF%20writeup.pdf)** | Web Exploitation — OSINT, Path Traversal, Client-Side Auth, Info Disclosure |
+| **[TraceBash CTF](README.md)** | Web Exploitation — Logic Flaws, API Manipulation, Command Injection |
 
 *(More competitions added as solved)*
 
 ## Tech & Tools Used
 
 - Browser DevTools (Inspect Element, view-source)
+- Burp suit
 - Manual URL/parameter manipulation
 - Burp Suite *(where applicable)*
+- Python (Requests, Regex)
 - OSINT techniques
 
 ## Connect
